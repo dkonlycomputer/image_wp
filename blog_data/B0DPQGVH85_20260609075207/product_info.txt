@@ -1,0 +1,17 @@
+--- IMAGES ---
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_075202.webp
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_075204.webp
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_075206.webp
+
+--- CONTENT / FEATURES ---
+Price: ₹78,990.
+Affiliate Link: https://www.amazon.in/dp/B0DPQGVH85/?tag=dilawar0e-21
+
+- Processor: Intel Core i5-12450HX | Speed: 2.4GHz (Base) - 4.4GHz (Max) | 8 Cores | 12 Threads | 12MB Cache
+- Display: 15.6" FHD (1920x1080) IPS Technology | 144 Hz Refresh Rate | 100pct. sRGB |Brightness: 300Nits Anti-glare || Connectivity : Wi-Fi 6, 802.11ax 2x2 | BT5.2
+- Memory: 16GB SO-DIMM DDR5-4800, Max Memory :-Up to 32GB DDR5-4800 | Storage: 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+- Graphics: NVIDIA GeForce RTX 3050 6GB GDDR6, Boost Clock 1732MHz, TGP 95W | G-Sync || Cooling: Hyperchamber thermal design is a game-changer. Dual fans spin outward, expelling heat eciently from the rear end, and the sealed chamber grants an extra 10W of power in Extreme Mode, reduces skin temperature, and minimizes noise
+- AI Engine + : The Lenovo AI Engine+ and Lenovo LA1 AI Chip work together with the MUX Switch with NVIDIA Advanced Optimus for a truly epic boost in performance, at levels you've never seen before.
+
+--- TITLE ---
+Lenovo LOQ 2024 12th Gen Core i5-12450HX | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/15.6" (39.6cm)/Windows 11/Office Home 2024/100% sRGB/3 Mon. Game Pass/Grey/2.4Kg), 83GS00LNIN Gaming Laptop
