@@ -1,0 +1,17 @@
+--- IMAGES ---
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_074859.webp
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_074901.webp
+https://raw.githubusercontent.com/dkonlycomputer/image_wp/main/blog_images/post_20260609_074903.webp
+
+--- CONTENT / FEATURES ---
+Price: ₹77,990.
+Affiliate Link: https://www.amazon.in/dp/B09CMGFC1K/?tag=dilawar0e-21
+
+- Processor : AMD Ryzen 7 7445HS Processor 3.2GHz (22MB Cache, up to 4.7GHz, 6 cores, 12 Threads)
+- Display : 15.6-inch, FHD (1920 x 1080) 16:9, 144Hz Refresh Rate, 250nits Brightness, Anti-glare display | Keyboard : Backlit Chiclet Keyboard 1-Zone RGB
+- Memory : 16GB DDR5-5600 SO-DIMM | Storage : 1TB PCIe 4.0 NVMe M.2 SSD
+- Software : Microsoft 365 Basic with 100GB Cloud Storage for 1 Year + Office Home 2024 with lifetime validity | Operating System : Windows 11 Home
+- Graphics : NVIDIA GeForce RTX 3050 Laptop GPU, 4GB GDDR6 | Graphic Wattage : Up to 1675MHz at 60W (75W with Dynamic Boost)
+
+--- TITLE ---
+ASUS TUF A15 (2025),Smartchoice, AMD Ryzen 7 7445HS,Gaming Laptop,RTX 3050-4GB,75W TGP,16GB RAM (Upgradeable Upto 64GB) 1TB SSD,FHD,15.6",144Hz,M365 Basic(1Y),Office 2024,Black,2.3 Kg,FA506NCG-HN251WS
